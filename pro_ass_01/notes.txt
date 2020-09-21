@@ -1,0 +1,7 @@
+Limitations:
+1 - after course name ther should not be any space after comma
+2 - student names have to be single words and should not have any space before or after the name to ease programming
+3 - student names are case senistive and space sensitive
+4 - it the query string has an extra word at the end, we won't detect, we will take the initial match
+5 - studen name is maximum of 19 characters
+

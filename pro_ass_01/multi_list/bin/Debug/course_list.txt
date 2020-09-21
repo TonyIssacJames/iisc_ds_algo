@@ -1,0 +1,20 @@
+251, Data Structures and Algorithms
+4512, Database Systems
+3, Introduction to Programming
+33, Indian History
+34, World History
+4012, Machine Learning
+10, Deep Learning
+3012, Embedded Systems
+399, Advanced Linux Drivers
+405, Linux Internals
+673, File Systems
+823, Economics Basics
+1024, Economics InterMediate
+2521, Economics Advanced
+8, Japanese Language for Beginners
+9, Martial Arts
+45, Sports Medicine
+99, Hypnotism
+8077, Predicting US Elections
+8888, Basic Life Skills
